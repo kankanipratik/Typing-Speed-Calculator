@@ -35,11 +35,11 @@ This project is a Python-based GUI Typing Speed Test application developed using
 ## 📁 Project Structure
 
 Typing-Speed-Test/
-├── tsc1.py        # Main application file
-├── easy.txt       # Sentences for easy level
-├── medium.txt     # Sentences for medium level
-├── hard.txt       # Sentences for hard level
-└── README.md      # Project documentation
+├── tsc1.py        
+├── easy.txt       
+├── medium.txt     
+├── hard.txt       
+└── README.md     
 
 
 
