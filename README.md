@@ -24,6 +24,16 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ---
 
+## Application Output
+
+### Output without Errors
+![Output without Errors](typing_without_mistakes.jpg)
+
+### Output with Errors
+![Output with Errors](typing_with_mistakes.jpg)
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python 3  
