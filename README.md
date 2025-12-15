@@ -45,16 +45,16 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ## 📁 Project Structure
 
-Typing-Speed-Test/
+Typing-Speed-Calculator/
 
-├── main.py        
-├── easy.txt       
-├── medium.txt     
-├── hard.txt       
-└── README.md     
-
-
-
+├── main.py
+├── easy.txt
+├── medium.txt
+├── hard.txt
+├── images/
+│   ├── typing_without_mistakes.jpg
+│   └── typing_with_mistakes.jpg
+└── README.md
 
 ## ▶️ How to Run
 
