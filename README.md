@@ -4,13 +4,13 @@ Python Tkinter GUI typing speed test that measures WPM, accuracy, time, and mist
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 This project is a Python-based GUI Typing Speed Test application developed using **Tkinter**. It allows users to test and improve their typing skills by providing performance metrics such as **Words Per Minute (WPM), accuracy percentage, time taken, and number of mistakes**. The application includes multiple difficulty levels and real-time visual feedback to make the typing experience interactive and effective.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Difficulty levels: **Easy, Medium, Hard**
 - Random sentence selection from external text files
@@ -35,7 +35,7 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3  
 - Tkinter (GUI framework)  
@@ -43,10 +43,10 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
+```
 Typing-Speed-Calculator/
-
 ├── main.py
 ├── easy.txt
 ├── medium.txt
@@ -55,8 +55,9 @@ Typing-Speed-Calculator/
 │   ├── typing_without_mistakes.jpg
 │   └── typing_with_mistakes.jpg
 └── README.md
+```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python 3 on your system.
 2. Download or clone this repository.
@@ -66,7 +67,7 @@ Typing-Speed-Calculator/
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 - GUI development using Tkinter
 - Event handling and user input processing
@@ -75,7 +76,7 @@ Typing-Speed-Calculator/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Typing history or leaderboard
 - Improved UI design
