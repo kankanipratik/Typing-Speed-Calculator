@@ -34,7 +34,6 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ## 📁 Project Structure
 
-```text
 Typing-Speed-Test/
 ├── tsc1.py        # Main application file
 ├── easy.txt       # Sentences for easy level
