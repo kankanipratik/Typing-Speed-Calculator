@@ -43,7 +43,7 @@ This project is a Python-based GUI Typing Speed Test application developed using
 
 ---
 
-##  Project Structure
+### Project Structure
 
 ```
 Typing-Speed-Calculator/
@@ -57,11 +57,14 @@ Typing-Speed-Calculator/
 └── README.md
 ```
 
+
+
+
 ##  How to Run
 
 1. Install Python 3 on your system.
 2. Download or clone this repository.
-3. Ensure all `.txt` files are in the same directory as `tsc1.py`.
+3. Ensure all `.txt` files are in the same directory as `main.py`.
 4. Run the application using:
 5. Select a difficulty level and start typing.
 
