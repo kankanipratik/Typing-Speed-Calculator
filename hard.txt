@@ -1,0 +1,15 @@
+Object-oriented programming relies on the concept of classes and objects to structure software.
+To understand recursion, one must first understand recursion; it is a process where a function calls itself.
+The complexity of an algorithm is often described using Big O notation to measure efficiency.
+Quantum mechanics describes the behavior of matter and light on the atomic and subatomic scale.
+Photosynthesis is the process used by plants to convert light energy into chemical energy.
+Cryptocurrency uses decentralized control as opposed to centralized digital currency and central banking systems.
+Artificial intelligence is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals.
+The mitochondria is the powerhouse of the cell, responsible for generating most of the cell's energy.
+In computer science, a binary search tree is a data structure that allows for fast lookup and addition of items.
+Sustainable development meets the needs of the present without compromising the ability of future generations.
+Hypertext Markup Language, or HTML, is the standard markup language for documents displayed in a web browser.
+The theory of relativity usually encompasses two interrelated theories by Albert Einstein: special relativity and general relativity.
+Exception handling is the process of responding to anomalous conditions requiring special processing during execution.
+Cybersecurity involves protecting computer systems and networks from information disclosure, theft, or damage.
+A compiler is a computer program that translates computer code written in one programming language into another language.
