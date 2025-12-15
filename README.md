@@ -27,10 +27,11 @@ This project is a Python-based GUI Typing Speed Test application developed using
 ## Application Output
 
 ### Output without Errors
-![Output without Errors](typing_without_mistakes.jpg)
+![Output without Errors](images/typing_without_mistakes.jpg)
 
 ### Output with Errors
-![Output with Errors](typing_with_mistakes.jpg)
+![Output with Errors](images/typing_with_mistakes.jpg)
+
 
 ---
 
