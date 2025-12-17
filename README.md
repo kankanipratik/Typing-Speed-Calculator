@@ -89,5 +89,4 @@ Typing-Speed-Calculator
 
 ---
 
-Developed as a Python learning project using Tkinter.
 
